@@ -26,4 +26,4 @@ TODO
 * Responsemessage/code handling.
 * Message queueing 
 
-![Creative Commons][http://i.creativecommons.org/l/by-sa/4.0/88x31.png]
+![Creative Commons](http://i.creativecommons.org/l/by-sa/4.0/88x31.png)
