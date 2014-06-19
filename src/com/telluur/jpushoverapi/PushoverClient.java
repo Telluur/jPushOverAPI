@@ -1,4 +1,4 @@
-package com.telluur.pushover;
+package com.telluur.jpushoverapi;
 
 import javax.net.ssl.HttpsURLConnection;
 import java.io.BufferedReader;

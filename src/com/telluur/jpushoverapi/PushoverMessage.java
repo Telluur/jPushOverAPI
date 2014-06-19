@@ -1,4 +1,4 @@
-package com.telluur.pushover;
+package com.telluur.jpushoverapi;
 
 public class PushoverMessage {
     private String message;
